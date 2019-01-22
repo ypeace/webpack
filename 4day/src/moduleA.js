@@ -1,1 +1,1 @@
-export  default 'moduleA'；
+export  default 'moduleA';
